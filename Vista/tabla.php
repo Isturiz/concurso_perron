@@ -37,7 +37,7 @@
 
           <td>
             <a href="Vista/editar.php?id=<?php echo $row['id']?>" class="btn btn-secondary">
-              <i class="fas fa-marker"></i>
+            <i class="fas fa-paw"></i>
             </a>
             <a href="Controlador/eliminar.php?id=<?php echo $row['id']?>" class="btn btn-danger">
               <i class="far fa-trash-alt"></i>

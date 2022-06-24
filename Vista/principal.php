@@ -15,7 +15,10 @@
 
   <nav class="navbar navbar-dark bg-dark">
     <div class="container">
-      <a class="navbar-brand" href="">CONCURSO PERRÓN</a>
+      <a class="navbar-brand" href="">
+        <i class="fas fa-dog"></i>
+        CONCURSO PERRÓN
+      </a>
     </div>
   </nav>
 
